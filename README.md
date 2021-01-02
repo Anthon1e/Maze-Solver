@@ -27,4 +27,4 @@ we will get the following output as solution:
 
 ## Known bugs
 
-There might be warnings but they do not really affect the program and can be ignored
+There might be warnings when you run the program but they are insignificant
